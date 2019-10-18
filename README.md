@@ -1,2 +1,2 @@
-# loco-family
-Mobile app that tracks famil'ys location
+# LocoFamily
+Mobile app that tracks family's location.
